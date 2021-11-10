@@ -1,2 +1,1 @@
-# maniroy
-this is my repository
+This is my repository
